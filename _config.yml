@@ -10,7 +10,7 @@ highlighter: pygments
 paginate: 20
 
 markdown: rdiscount
-theme: minima
+remote_theme: benbalter/retlab
 rdiscount:
     extensions: ['smart']
 
